@@ -1,4 +1,7 @@
 ### [New Codebase Update] 
+
+# This project makes it successfully run on the Minkowski Engine 5.0 version. We configured the relevant environment and code reposiroty.
+
 This repo is *not* actively maintained. 
 
 Please checkout our new codebase **ContrastiveSceneContexts** that upgrades PointContrast with better representation learning capability and works better on data efficient benchmarks. 
